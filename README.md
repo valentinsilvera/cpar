@@ -1,6 +1,6 @@
 ![Cover GIF](https://valentin.work/images/work-videos/cpar.gif)
 
-# CPAR
+# CPAR / WWDC19
 
 > WWDC19 scholarship submission
 
